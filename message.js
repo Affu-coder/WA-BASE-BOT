@@ -329,8 +329,8 @@ module.exports = sock = async (sock, m, chatUpdate, store) => {
                 const totalCommands = pluginLoader.getPluginCount();
 
                 const K0MRAID = `
-╔〘 *WA-BASE-BOT* 
-║ 👑 *Owner:* Debraj 
+╔〘 *RAVEN-X* 
+║ 👑 *Owner:* MARISELDEV 
 ║ 🧩 *Prefix:* [ . ]
 ║ 🖥️ *Host:* ${host}
 ║ 🧠 *Commands:* ${totalCommands}
@@ -351,12 +351,12 @@ ${pluginMenuSections}`;
                         forwardingScore: 1,
                         isForwarded: false,
                         externalAdReply: {
-                            title: "Simple WA Base Bot",
+                            title: "RAVEN-X",
                             body: "Official Dev Account URL",
                             mediaType: 3,
                             thumbnailUrl: config.thumbUrl,
-                            mediaUrl: "https://t.me/debrajzero",
-                            sourceUrl: "https://t.me/debrajzero",
+                            mediaUrl: "https://t.me/coderxma",
+                            sourceUrl: "https://t.me/coderxma",
                             showAdAttribution: true,
                             renderLargerThumbnail: false
                         }
