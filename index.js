@@ -151,9 +151,9 @@ const clientstart = async() => {
                     `> ⚡ Prefix: [ . ]\n` +
                     `> 🚀 Mode: ${sock.public ? 'Public' : 'Self'}\n` +
                     `> 🤖 Version: 1.0.0\n` +
-                    `> 👑 Owner: Debraj\n\n` +
+                    `> 👑 Owner: MARISELDEV \n\n` +
                     `✅ Bot connected successfully\n` +
-                    `📢 Join our channel: https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E`,
+                    `📢 Join our channel: https://whatsapp.com/channel/0029Vb7Pg84EwEjwHOQ02e3X`,
                 contextInfo: {
                     forwardingScore: 1,
                     isForwarded: true,
@@ -161,7 +161,7 @@ const clientstart = async() => {
                         title: config().settings.title,
                         body: config().settings.description,
                         thumbnailUrl: config().thumbUrl,
-                        sourceUrl: "https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E",
+                        sourceUrl: "https://whatsapp.com/channel/0029Vb7Pg84EwEjwHOQ02e3X",
                         mediaType: 1,
                         renderLargerThumbnail: false
                     }
